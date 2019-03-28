@@ -19,7 +19,10 @@
   "homepage": "https://github.com/leo-pro/robot-video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
-    "readline-sync": "^1.4.9",
-    "sbd": "^1.0.14"
+    "googleapis": "^38.0.0",     
+    "image-downloader": "^3.4.2",     
+    "readline-sync": "^1.4.9",     
+    "sbd": "^1.0.14", 
+    "watson-developer-cloud": "^3.18.2"
   }
 }
